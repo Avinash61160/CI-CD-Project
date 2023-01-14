@@ -251,7 +251,6 @@ Now Your App is running on 8000 Port so give the inbound accesss:
 
 Type the Public ip with 8000 Port:- 
 
-![image](https://user-images.githubusercontent.com/121545847/210234319-3425b5fc-7610-485a-ac06-b418f89a7561.png)
 
 
 Now lets install docker and build the docker image by following commands 
