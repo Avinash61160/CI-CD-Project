@@ -341,11 +341,11 @@ docker ps
 
 **Now lets Run the Docker through Jenkins**
 
-Give Full Access to Build Path (Pranoti_G is my Item Name)
+Give Full Access to Build Path (Avi_CI/CD_Proj is my Item Name)
 
 
 ```
-sudo chmod 777 /var/lib/jenkins/workspace/Pranoti_G 
+sudo chmod 777 /var/lib/jenkins/workspace/Avi_CI/CD_Proj 
 ```
 
 To Connect Docker Domain Socket
