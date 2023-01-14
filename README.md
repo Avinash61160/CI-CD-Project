@@ -367,7 +367,6 @@ Then add the Build Steps in Execute Shell
 
 Now check the Port 8000 is running Successfully
 
-![image](https://user-images.githubusercontent.com/121545847/210249093-01ded4b3-5a7e-4350-add7-36fdb96a3dfc.png)
 
 ### Step 5:
 
