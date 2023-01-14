@@ -267,7 +267,6 @@ Now creat the docker file
 vim dockerfile
 ```
 
-![image](https://user-images.githubusercontent.com/84725860/210178076-2534550d-ea81-46d7-ad7e-cd1e4e48aef3.png)
 
 
 Give the commands in that docker file
@@ -394,8 +393,6 @@ then Go to jenkins and configure the Build triggers
 
 Now Change in Github you will see automatic deployment will there
 
-
-![image](https://user-images.githubusercontent.com/121545847/210254649-a5ec1fb6-f58b-4a36-aa8a-70da7608eb90.png)
 
 
 # Thank You
